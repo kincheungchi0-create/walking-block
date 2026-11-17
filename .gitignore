@@ -8,3 +8,6 @@ audio/music/*
 !audio/music/the_long_dark.mp3
 .claude/
 *.log
+
+dist/
+._*

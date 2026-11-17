@@ -7,7 +7,8 @@
     "storyboard": "node tools/shot.mjs --board --prefix sb",
     "audio": "node tools/audio.mjs",
     "render": "node tools/render.mjs --w 1920 --h 1080 --mb 5 --dir out/frames",
-    "mux": "bash tools/mux.sh"
+    "mux": "bash tools/mux.sh",
+    "build": "node tools/build.mjs"
   },
   "keywords": [],
   "author": "",
